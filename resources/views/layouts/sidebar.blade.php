@@ -15,7 +15,7 @@
   <!------ Include the above in your HEAD tag ---------->
   <script src="https://kit.fontawesome.com/cc72c425a9.js" crossorigin="anonymous"></script>
   <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-</head>
+</head> 
 
 <body>
   <div id="viewport">
